@@ -72,6 +72,7 @@ I build things that work in production, not just in notebooks.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -111,7 +112,7 @@ LLM-powered resume screening pipeline for automated skill extraction, semantic c
 ---
 
 ### 🏪 [Business ERP & POS Billing System](https://github.com/snehal7100/SS)
-> `Python` `Django` `MySQL` `Bootstrap` `JavaScript` `REST APIs`
+> `Python` `Django` `MySQL` `Bootstrap` `JavaScript` `REST APIs` 
 
 Full-stack ERP and POS system with inventory management, automated invoicing, GST calculations (CGST/SGST/IGST), role-based access control, and real-time financial reporting. Designed normalized MySQL schema across inventory, billing, supplier, and reporting modules.
 
@@ -129,7 +130,7 @@ Interactive Power BI dashboard on transaction and customer data from SQL databas
 **Agentic AI Intern — Innomatics Research Labs, Pune** *(Feb 2026 – May 2026)*
 - Built production-grade AI applications using Python, FastAPI, LangChain, LangGraph, and RAG architecture
 - Developed multi-node Agentic AI workflows with Groq API (LLaMA 3.3 70B), HuggingFace Embeddings, and LangSmith monitoring
-- Hands-on experience with ChromaDB, semantic search pipelines, and AWS cloud deployment
+- Hands-on experience with ChromaDB, semantic search pipelines
 
 **Web Development Intern — Aspire Technologies Pvt. Ltd** *(Aug 2024 – Feb 2025)*
 - Developed 5+ web modules using HTML, CSS, JavaScript, Python, and Django
