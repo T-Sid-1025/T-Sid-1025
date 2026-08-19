@@ -26,7 +26,7 @@ AI/ML Engineer with hands-on experience building **production-grade LLM applicat
 
 On the backend side, I work with **Python, FastAPI, and Django** to build scalable REST APIs and full-stack web applications — from ERP systems to AI-powered document assistants.
 
-Currently completing my **Agentic AI Internship at Innomatics Research Labs, Pune**, where I build end-to-end AI systems with real-world deployment constraints — semantic search, human-in-the-loop workflows, LangSmith monitoring.
+Recently completed my **Agentic AI Internship at Innomatics Research Labs, Pune** *(Feb – May 2026)*, where I built end-to-end AI systems with real-world deployment constraints — semantic search, human-in-the-loop workflows, and LangSmith monitoring.
 
 I build things that work in production, not just in notebooks.
 
@@ -41,6 +41,7 @@ I build things that work in production, not just in notebooks.
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-6C63FF?style=for-the-badge&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Vector Databases
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
@@ -52,6 +53,7 @@ I build things that work in production, not just in notebooks.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 📊 Data & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -59,6 +61,8 @@ I build things that work in production, not just in notebooks.
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-20BEFF?style=for-the-badge&logoColor=white)
+![Risk Modeling](https://img.shields.io/badge/Risk_Modeling-FF4444?style=for-the-badge&logoColor=white)
 
 ### 📈 Visualization & BI
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -71,13 +75,15 @@ I build things that work in production, not just in notebooks.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -91,35 +97,35 @@ Production-grade RAG pipeline supporting PDF, Word, and Excel documents with sem
 ---
 
 ### 💳 [Credit Risk Banking Dashboard](https://github.com/T-Sid-1025/ML-credit-risk-dashboard-)
-> `Python` `Streamlit` `Pandas` `NumPy` `Risk Modeling`
+> `Python` `Streamlit` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Risk Modeling`
 
-8-page interactive Streamlit dashboard analyzing 32,581+ loan records, reducing officer processing time from 45 min to 5 min per application (90% efficiency gain). Custom risk-scoring algorithm (0–100 scale) evaluating 5 parameters with real-time APPROVE / REVIEW / REJECT recommendations.
+Designed and developed an 8-page interactive Streamlit dashboard analyzing 32,581+ loan records to support credit risk assessment and lending decisions. Architected a custom rule-based risk-scoring algorithm (0–100 scale) evaluating 5 parameters — Age, Income, Loan-to-Income Ratio, Credit Grade, Employment Stability — with real-time APPROVE / REVIEW / REJECT recommendations. Built dedicated modules for EDA, pattern analysis, income-based risk segmentation, customer comparison, what-if scenario simulation, batch CSV scoring, and a filterable data explorer with CSV exports.
 
 ---
 
-### 🧬 [Brain Tumor Classification using CNN](https://github.com/T-Sid-1025/Brain-Tumor-Classification-CNN/tree/main)
-> `Python` `TensorFlow` `Keras` `CNN` `Deep Learning` `Medical Imaging`
+### 🧬 [NeuroVision Clinical — Brain Tumor Classification CNN](https://github.com/T-Sid-1025/Brain-Tumor-Classification-CNN/tree/main)
+> `Python` `TensorFlow` `Keras` `CNN` `Deep Learning` `Medical Imaging` `Streamlit` `Grad-CAM`
 
-CNN-based MRI classifier with data augmentation and transfer learning. Evaluated using accuracy, precision, recall, F1-score, and confusion matrix for robust generalization on medical imaging data.
+Built **NeuroVision Clinical**, a CNN-based Brain Tumor MRI classifier using TensorFlow/Keras, achieving **76.74% test accuracy** across 3 classes on 3,064 MRI images. Designed a 4-block CNN with batch normalization and data augmentation; deployed as an interactive Streamlit clinical dashboard for real-time MRI prediction. Added Grad-CAM heatmap visualization for model explainability, automated PDF diagnostic report export, confidence-based review flagging, and batch multi-scan analysis with a persistent prediction history log.
 
 ---
 
 ### 📄 [AI Resume Screening System](https://github.com/T-Sid-1025/AI-Resume-Screening-System)
 > `Python` `LangChain` `Groq API` `LangSmith` `Prompt Engineering`
 
-LLM-powered resume screening pipeline for automated skill extraction, semantic candidate-to-JD matching, and explainable AI outputs. Integrated LangSmith for pipeline monitoring, response tracing, and hiring recommendations.
+LLM-powered resume screening pipeline for automated skill extraction, semantic candidate-to-JD matching, and explainable AI outputs with LangSmith monitoring. Integrated Groq LLM and LangSmith for candidate scoring, pipeline monitoring, response tracing, and explainable hiring recommendations.
 
 ---
 
 ### 🏪 [Business ERP & POS Billing System](https://github.com/snehal7100/SS)
-> `Python` `Django` `MySQL` `Bootstrap` `JavaScript` `REST APIs` 
+> `Python` `Django` `MySQL` `Bootstrap` `JavaScript` `REST APIs` `RBAC`
 
-Full-stack ERP and POS system with inventory management, automated invoicing, GST calculations (CGST/SGST/IGST), role-based access control, and real-time financial reporting. Designed normalized MySQL schema across inventory, billing, supplier, and reporting modules.
+Full-stack ERP and POS system with inventory management, automated invoicing, GST calculations (CGST/SGST/IGST), role-based access control, and real-time financial reporting. Designed normalized MySQL schema across inventory, billing, supplier, and reporting modules to streamline business operations.
 
 ---
 
 ### 📊 [Credit Card Financial Dashboard](https://github.com/T-Sid-1025/Credit_Card_Financial_Dashboard)
-> `Power BI` `SQL` `MySQL` `DAX` `Data Modeling`
+> `Power BI` `SQL` `MySQL` `DAX` `Data Modeling` `Financial Analytics`
 
 Interactive Power BI dashboard on transaction and customer data from SQL database. Visualizes revenue trends, customer segments, spending patterns, and financial KPIs for data-driven stakeholder decisions.
 
@@ -128,19 +134,34 @@ Interactive Power BI dashboard on transaction and customer data from SQL databas
 ## Experience
 
 **Agentic AI Intern — Innomatics Research Labs, Pune** *(Feb 2026 – May 2026)*
-- Built production-grade AI applications using Python, FastAPI, LangChain, LangGraph, and RAG architecture
+- Built production-grade AI applications using Python, FastAPI, LangChain, LangGraph, and RAG architecture with vector database integration
 - Developed multi-node Agentic AI workflows with Groq API (LLaMA 3.3 70B), HuggingFace Embeddings, and LangSmith monitoring
-- Hands-on experience with ChromaDB, semantic search pipelines
+- Hands-on experience with ChromaDB and semantic search pipelines
 
 **Web Development Intern — Aspire Technologies Pvt. Ltd** *(Aug 2024 – Feb 2025)*
-- Developed 5+ web modules using HTML, CSS, JavaScript, Python, and Django
-- Implemented 3+ REST API integrations; resolved 20+ bugs in a 4–5 member Agile team
+- Developed 5+ web modules using HTML, CSS, JavaScript, Python, and Django; built responsive UI components improving cross-device usability by 30%+
+- Implemented 3+ REST API integrations and database operations; resolved 20+ bugs using Git version control in a 4–5 member Agile team
+
+---
+
+## Education
+
+🎓 **Master of Computer Applications (MCA)** — Expected 2026
+*PSD Shastri Educational Foundation's ASMA Institute of Management, Pune — Savitribai Phule Pune University*
+
+🎓 **Bachelor of Computer Applications (BCA)** — CGPA: 8.7 | 2025
+*Tuljaram Chaturchand College of Arts, Science & Commerce, Pune*
+
+🎓 **Higher Secondary Certificate (HSC)** — 87.33% | 2021
+*MRSV College, Phaltan*
 
 ---
 
 ## Certifications
 
 - 🏅 Agentic AI Internship Completion — Innomatics Research Labs *(Certificate ID: A_02261522)*
+- 🏅 Machine Learning Certification
+- 🏅 Deep Learning Certification
 - 🏅 Python Programming Certification
 - 🏅 Exploratory Data Analysis (EDA) Certification
 - 🏅 Power BI Data Visualization Certification
